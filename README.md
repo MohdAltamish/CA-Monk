@@ -2,7 +2,7 @@
 
 A modern, full-featured blog and resource platform designed specifically for **Chartered Accountants (CAs)** and finance professionals. Built with React, TypeScript, and Vite for a blazing-fast, responsive user experience.
 
-![CA Monk Banner](Images/Screenshot%202026-01-20%20at%208.08.23%20PM.png)
+![CA Monk Banner](Images/banner.png)
 
 ---
 
@@ -56,17 +56,17 @@ A modern, full-featured blog and resource platform designed specifically for **C
 
 ## 📸 Screenshots
 
-| Home / Blog List                                                     | Blog Detail                                                            |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| ![Blog List](Images/Screenshot%202026-01-20%20at%208.08.33%20PM.png) | ![Blog Detail](Images/Screenshot%202026-01-20%20at%208.08.40%20PM.png) |
+| Home / Blog List                   | Blog Detail                            |
+| ---------------------------------- | -------------------------------------- |
+| ![Blog List](Images/blog-list.png) | ![Blog Detail](Images/blog-detail.png) |
 
-| Financial Tools                                                  | Practice Arena                                                      |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------- |
-| ![Tools](Images/Screenshot%202026-01-20%20at%208.08.47%20PM.png) | ![Practice](Images/Screenshot%202026-01-20%20at%208.08.56%20PM.png) |
+| Financial Tools            | Practice Arena                   |
+| -------------------------- | -------------------------------- |
+| ![Tools](Images/tools.png) | ![Practice](Images/practice.png) |
 
-| Create Article                                                    |
-| ----------------------------------------------------------------- |
-| ![Create](Images/Screenshot%202026-01-20%20at%208.09.04%20PM.png) |
+| Create Article                       |
+| ------------------------------------ |
+| ![Create](Images/create-article.png) |
 
 ---
 
