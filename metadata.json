@@ -1,0 +1,5 @@
+{
+  "name": "CA Monk Blog Application",
+  "description": "A modern, high-performance blog platform built with React, TanStack Query, and Tailwind CSS. Features include a split-pane layout for seamless browsing, real-time blog creation, and a polished UI inspired by the CA Monk aesthetic.",
+  "requestFramePermissions": []
+}
